@@ -8,4 +8,4 @@ This script will allow you to replace the log & alert server across all your gat
     - Output will be in a txt mgmt_cli-replace-logging-alert.txt-$DOMAIN.txt ($DOMAIN will the IP of your domain or SMS)
       - this file is already executable and will contain all of the mgmt_cli to make the changes simply execute './mgmt_cli-replace-logging-alert.txt-$DOMAIN.txt'
 
-##Enjoy!##
+## Enjoy! ##
